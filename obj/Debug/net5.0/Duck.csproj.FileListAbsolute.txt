@@ -1,0 +1,15 @@
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/Duck.deps.json
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/Duck.runtimeconfig.json
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/Duck.runtimeconfig.dev.json
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/Duck.dll
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/ref/Duck.dll
+/Users/cbrown/WorkingCopies/Duck/bin/Debug/net5.0/Duck.pdb
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.csprojAssemblyReference.cache
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.AssemblyInfoInputs.cache
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.AssemblyInfo.cs
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.csproj.CoreCompileInputs.cache
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.dll
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/ref/Duck.dll
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.pdb
+/Users/cbrown/WorkingCopies/Duck/obj/Debug/net5.0/Duck.genruntimeconfig.cache
